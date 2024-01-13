@@ -1,4 +1,4 @@
-## Olá, eu sou o Murilo! 👋
+## Olá! 👋
 
 
 ### 🚀 Sobre mim
