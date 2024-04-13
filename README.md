@@ -5,7 +5,7 @@
 🧠 Sou um desenvolvedor back-end buscando aprender cada vez mais através da prática. 
 
 
-🔭 Buscando oportunidades como desenvolvedor<br>👩‍💻 Aluno da Cubos Academy<br>🤝 Procuro colaborar em projetos open-source<br>🌍 Salvador-BA, Brasil
+🔭 Buscando oportunidades como desenvolvedor<br>👩‍💻 Ex aluno da Cubos Academy e ADA Tech<br>🤝 Procuro colaborar em projetos open-source<br>🌍 Salvador-BA, Brasil
 
 
 ### 🌐 Socials:
